@@ -2,6 +2,9 @@ package jgxms.adapter.interadapter;
 
 /**
  * Created by Administrator on 2016/2/15.
+ * @Author:tds
+ * @Description:接口适配的测试
+ * 每个对象只要实现需要的方法就行了
  */
 public class WrapperTest {
 
